@@ -10,13 +10,13 @@ export const PLATFORM_CREATOR_ADDRESS = new PublicKey(
 )
 
 // Gamba explorer URL - Appears in RecentPlays
-export const EXPLORER_URL = 'https://explorer.gamba.so'
+export const EXPLORER_URL = 'https://icecasino.vercel.app/'
 
 // Platform URL - Appears in ShareModal
-export const PLATFORM_SHARABLE_URL = 'play.gamba.so'
+export const PLATFORM_SHARABLE_URL = 'ice.casino.so'
 
 // Creator fee (in %)
-export const PLATFORM_CREATOR_FEE = 0.01 // 1% !!max 5%!!
+export const PLATFORM_CREATOR_FEE = 0.05 // 1% !!max 5%!!
 
 // Jackpot fee (in %)
 export const PLATFORM_JACKPOT_FEE = 0.001 // 0.1%
